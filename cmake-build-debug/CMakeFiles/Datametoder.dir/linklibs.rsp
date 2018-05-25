@@ -1,0 +1,1 @@
+ -LC:/Users/Andreas/CLionProjects/Datametoder/dll_files  -LC:/Users/Andreas/CLionProjects/Datametoder/glfw/glfw-3.2.1.bin.WIN64/lib-mingw-w64 -lphidget22 -lglfw3 libglad.a -lopengl32 -lglu32 libglad.a -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

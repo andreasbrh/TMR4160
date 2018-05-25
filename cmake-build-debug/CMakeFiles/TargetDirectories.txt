@@ -1,0 +1,4 @@
+C:/Users/Andreas/CLionProjects/Datametoder/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Andreas/CLionProjects/Datametoder/cmake-build-debug/CMakeFiles/Datametoder.dir
+C:/Users/Andreas/CLionProjects/Datametoder/cmake-build-debug/CMakeFiles/glad.dir
+C:/Users/Andreas/CLionProjects/Datametoder/cmake-build-debug/CMakeFiles/edit_cache.dir
